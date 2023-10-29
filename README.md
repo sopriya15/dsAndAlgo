@@ -1,0 +1,1 @@
+Initial project to save different questions I solved before applying for Google. Questions are mostly taken from LeetCode. This is just how I solved different questions when I was practicing. I will be adding my approach, code and test case which I have used. This will be a good to build my repo and go back and revise when I need to.
